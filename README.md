@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, I'm Fawad Khan
 
-<!--
-**fawad-cs/fawad-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm a **Frontend Developer** passionate about building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning advanced **React.js** and modern frontend tools.
+- 💻 Check out my repositories for projects built with **React.js, JavaScript, HTML, & CSS**.
+- 📫 How to reach me: [fawadk.shalmani@gmail.com](mailto:fawadk.shalmani@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Libraries & Frameworks:** React.js, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Netlify
+
+---
+
+### 📊 GitHub Stats
+![Fawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawad-cs&show_icons=true&theme=radical)
